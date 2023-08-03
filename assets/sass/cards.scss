@@ -1,0 +1,27 @@
+.card {
+	border: 2px solid #d4dadd;
+	border-radius: 5px;
+	margin-bottom: 20px;
+
+	.head {
+		background-color: #ffffff;
+		text-align: center;
+		box-shadow: inset 0px -4px 5px rgba(0, 0, 0, 0.1);
+		height: 150px;
+		background-size: 250px;
+    	background-repeat: no-repeat;
+    	background-position: center;
+	}
+
+	.body {
+		padding: 20px;
+
+		.buttons {
+			border-top: 2px dashed #BDC3C7;
+			padding-top: 20px;
+			margin-top: 20px;
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+}

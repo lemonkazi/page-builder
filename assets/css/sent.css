@@ -1,0 +1,121 @@
+body {
+	background: #FBFCFC;
+}
+
+body p, body {
+	font-size: 15px;
+}
+
+body > .container:first-child {
+	margin-top: 15px;
+}
+
+.header h2 {
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.header p.sub {
+	margin-bottom: 20px;
+}
+
+.topSpace {
+	margin-top: 110px;
+}
+
+#about {
+	padding-top: 120px;
+}
+
+.main-nav li a > span.label {
+	font-size: 14px;
+	font-weight: normal;
+	padding: 5px 10px;
+}
+
+.main-nav.affix {
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	margin-top: 0px;
+	border-radius: 0px;
+	z-index: 1000;
+}
+
+#top {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 1000;
+}
+
+#top .navbar {
+	margin-top: 20px;
+	z-index: 1000;
+}
+
+h2 > img {
+	width: 60px;
+	position: relative;
+	top: -7px;
+}
+
+h3.smaller {
+	font-size: 19px;
+}
+
+h5.smaller {
+	font-size: 18px;
+}
+
+.sample-tabs {
+	margin-top: 30px;
+}
+
+.margin-bottom-15 {
+	margin-bottom: 15px;
+}
+
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+
+.margin-bottom-40 {
+	margin-bottom: 40px;
+}
+
+.margin-bottom-50 {
+	margin-bottom: 50px;
+}
+
+.margin-bottom-80 {
+	margin-bottom: 80px;
+}
+
+.padding-top-90 {
+	padding-top: 90px;
+}
+
+.margin-top-35 {
+	margin-top: 35px;
+}
+
+.tab-content {
+	background: #fff;
+	padding: 15px 15px 5px;
+}
+
+.code pre {
+	font-size: 12px;
+	border: 0px;
+	padding: 0px;
+}
+
+.code pre b {
+	font-weight: bold;
+	color: #333;
+}
+
+.more p b {
+	font-size: 16px;
+}

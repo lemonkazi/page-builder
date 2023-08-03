@@ -1,0 +1,53 @@
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine ON
+    RewriteBase /
+
+    # Uncomment this if you're having authentication problems with the REST API
+    #RewriteCond %{HTTP:Authorization} ^(.*)
+    #RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+    #hosted pages
+    RewriteRule ^([a-zA-Z0-9\-]*)/bundles/(.*) elements/bundles/$2
+
+    RewriteRule ^sites/getframe/images/(.*) images/$1
+    RewriteRule ^sites/getframe/([a-zA-Z0-9]*)/(.*) elements/$1/$2
+
+    RewriteRule ^sites/bundles/(.*) elements/bundles/$1
+    RewriteRule ^sites/css/(.*) elements/css/$1 [L,NC]
+
+    RewriteRule ^sites/livepreview/([a-zA-Z0-9]*)/(.*) elements/$1/$2
+    RewriteRule ^sites/rpreview/bundles/(.*) elements/bundles/$1
+    RewriteRule ^sites/rpreview/([a-zA-Z0-9]*)/images/(.*) images/$2
+    RewriteRule ^sites/rpreview/([a-zA-Z0-9]*)/([a-zA-Z0-9]*)/(.*) elements/$2/$3
+
+    RewriteRule ^temple/images/(.*) images/$1
+    RewriteRule ^temple/([a-zA-Z0-9]*)/(.*) elements/$1/$2
+
+    RewriteRule ^loadsinglepage/images/(.*) images/$1
+    RewriteRule ^loadsinglepage/([a-zA-Z0-9]*)/(.*) elements/$1/$2
+
+    RewriteRule ^loadsingleframe/images/(.*) images/$1
+    RewriteRule ^loadsingleframe/([a-zA-Z0-9]*)/(.*) elements/$1/$2
+
+    #image stuff
+    RewriteCond %{REQUEST_URI} !^/assets
+    RewriteRule ^([a-zA-Z0-9]*)/images/(.*) images/$2
+    RewriteRule ^elements/([a-zA-Z0-9]*)/images/(.*) images/$2
+    RewriteRule ^sites/images/(.*) images/$1
+
+    #hosted pages
+    RewriteRule ^bundles/(.*) elements/bundles/$1
+
+    RewriteCond $1 !^(index\.php|boostrap|css|elements|fonts|images|js|robots\.txt)
+
+    # If it's not a file being accessed
+    RewriteCond %{REQUEST_FILENAME} !-f
+    # If it's not a directory being accessed
+    RewriteCond %{REQUEST_FILENAME} !-d
+    # All request route through index.php
+    RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+
+</IfModule>

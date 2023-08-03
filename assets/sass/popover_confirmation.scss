@@ -1,0 +1,25 @@
+.popover.confirmation {
+	h3.popover-title {
+		font-size: 13px;
+		padding: 10px 15px 11px;
+		background-color: #29384A;
+	}
+	.popover-content {
+		padding: 9px 15px;
+		min-width: 250px;
+
+		p {
+			margin-bottom: 10px;
+			font-size: 12px;
+		}
+	}
+	.confirmation-buttons {
+		.btn-group {
+			width: 100%;
+			.btn-xs {
+				font-size: 11px;
+				width: 50%;
+			}
+		}
+	}
+}

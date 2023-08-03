@@ -1,0 +1,21 @@
+@import "spectrum.css";
+@import "chosen.css";
+@import "slim.min.css";
+@import "tail.datetime-default.css";
+
+/*body:before {
+	content: "Loading the page builder...";
+	color: #ECF0F1;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 10000;
+	background-color: #35495D;
+}*/
+
+body {
+	display: none;
+}
+

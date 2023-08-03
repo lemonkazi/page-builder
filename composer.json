@@ -1,0 +1,22 @@
+{
+  "name": "bloxby/bloxby",
+  "type": "project",
+  "description": "Bloxby website builder",
+  "license": "MIT",
+  "require": {
+    "campaignmonitor/createsend-php": "dev-master",
+    "infusionsoft/php-sdk": "dev-master",
+    "guzzlehttp/oauth-subscriber": "^0.3.0@dev",
+    "activecampaign/api-php": "1.0.0",
+    "unsplash/unsplash": "^2.4"
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-0": {
+      "App": "application/libraries/"
+    }
+  },
+  "minimum-stability": "dev"
+}

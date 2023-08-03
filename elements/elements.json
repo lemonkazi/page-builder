@@ -1,0 +1,383 @@
+{
+    "elements": {
+        "All Blocks": [],
+        "Empty block": [
+            {"url":"elements/Yummy/empty1.html","height":567, "thumbnail":"elements/thumbs/yummy_empty.jpg"}
+        ],
+        "Call to action": [
+            {"url":"elements/Yummy/cta2.html","height":567, "thumbnail":"elements/thumbs/y_cta2.jpg"},
+            {"url":"elements/Yummy/cta4.html","height":567, "thumbnail":"elements/thumbs/y_cta4.jpg"},
+            {"url":"elements/Yummy/cta5.html","height":567, "thumbnail":"elements/thumbs/y_cta5.jpg"},
+            {"url":"elements/Yummy/cta8.html","height":567, "thumbnail":"elements/thumbs/y_cta8.jpg"},
+            {"url":"elements/Yummy/cta9.html","height":567, "thumbnail":"elements/thumbs/y_cta9.jpg"}
+        ],
+        "Contact": [
+            {"url":"elements/Yummy/contact1.html","height":567, "thumbnail":"elements/thumbs/yummy_contact1.jpg"},
+            {"url":"elements/Yummy/contact4.html","height":567, "thumbnail":"elements/thumbs/yummy_contact4.jpg"},
+            {"url":"elements/Yummy/contact6.html","height":567, "thumbnail":"elements/thumbs/yummy_contact6.jpg"},
+            {"url":"elements/Yummy/contact7.html","height":567, "thumbnail":"elements/thumbs/yummy_contact7.jpg"},
+            {"url":"elements/Yummy/contact8.html","height":567, "thumbnail":"elements/thumbs/yummy_contact8.jpg"}
+        ],
+        "Content": [
+            {"url":"elements/Yummy/content2.html","height":567, "thumbnail":"elements/thumbs/yummy_content2.jpg"},
+            {"url":"elements/Yummy/content3.html","height":567, "thumbnail":"elements/thumbs/yummy_content3.jpg"},
+            {"url":"elements/Yummy/content7.html","height":567, "thumbnail":"elements/thumbs/yummy_content7.jpg"},
+            {"url":"elements/Yummy/content8.html","height":567, "thumbnail":"elements/thumbs/yummy_content8.jpg"},
+            {"url":"elements/Yummy/content9.html","height":567, "thumbnail":"elements/thumbs/yummy_content9.jpg"},
+            {"url":"elements/Yummy/content11.html","height":567, "thumbnail":"elements/thumbs/yummy_content11.jpg"}
+        ],
+		"Countdown timers": [
+            {"url":"elements/Yummy/countdown1.html","height":567, "thumbnail":"elements/thumbs/countdown1.png"},
+            {"url":"elements/Yummy/countdown2.html","height":567, "thumbnail":"elements/thumbs/countdown2.png"},
+            {"url":"elements/Yummy/countdown3.html","height":567, "thumbnail":"elements/thumbs/countdown3.png"}
+        ],
+        "Dividers": [
+            {"url":"elements/Yummy/divider1.html","height":567, "thumbnail":"elements/thumbs/y_divider1.jpg"},
+            {"url":"elements/Yummy/divider2.html","height":567, "thumbnail":"elements/thumbs/y_divider2.jpg"},
+            {"url":"elements/Yummy/divider3.html","height":567, "thumbnail":"elements/thumbs/y_divider3.jpg"}
+        ],
+		"Embed": [
+            {"url": "elements/Yummy/embed.html","height": 567,"thumbnail": "elements/thumbs/embed-block.png"}
+        ],
+        "Features": [
+            {"url":"elements/Yummy/features2.html","height":567, "thumbnail":"elements/thumbs/yummy_features2.jpg"},
+            {"url":"elements/Yummy/features4.html","height":567, "thumbnail":"elements/thumbs/yummy_features4.jpg"},
+            {"url":"elements/Yummy/features6.html","height":567, "thumbnail":"elements/thumbs/yummy_features6.jpg"},
+            {"url":"elements/Yummy/features8.html","height":567, "thumbnail":"elements/thumbs/yummy_features8.jpg"},
+            {"url":"elements/Yummy/features9.html","height":567, "thumbnail":"elements/thumbs/yummy_features9.jpg"},
+            {"url":"elements/Yummy/features11.html","height":567, "thumbnail":"elements/thumbs/yummy_features11.jpg"},
+            {"url":"elements/Yummy/features13.html","height":567, "thumbnail":"elements/thumbs/yummy_features13.jpg"},
+            {"url":"elements/Yummy/features16.html","height":567, "thumbnail":"elements/thumbs/yummy_features16.jpg"},
+            {"url":"elements/Yummy/features18.html","height":567, "thumbnail":"elements/thumbs/yummy_features18.jpg"},
+            {"url":"elements/Yummy/features20.html","height":567, "thumbnail":"elements/thumbs/yummy_features20.jpg"}
+        ],
+        "Footers": [
+            {"url":"elements/Yummy/footer1.html","height":567, "thumbnail":"elements/thumbs/yummy_footer1.jpg"},
+            {"url":"elements/Yummy/footer4.html","height":567, "thumbnail":"elements/thumbs/yummy_footer4.jpg"},
+            {"url":"elements/Yummy/footer7.html","height":567, "thumbnail":"elements/thumbs/yummy_footer7.jpg"}
+        ],
+        "Gallery": [
+            {"url":"elements/Yummy/gallery3.html","height":567, "thumbnail":"elements/thumbs/y_gallery3.jpg"},
+            {"url":"elements/Yummy/gallery8.html","height":567, "thumbnail":"elements/thumbs/y_gallery8.jpg"},
+            {"url":"elements/Yummy/gallery9.html","height":567, "thumbnail":"elements/thumbs/y_gallery9.jpg"},
+            {"url":"elements/Yummy/gallery13.html","height":567, "thumbnail":"elements/thumbs/y_gallery13.jpg"},
+            {"url":"elements/Yummy/gallery16.html","height":567, "thumbnail":"elements/thumbs/y_gallery16.jpg"}
+            
+        ],
+        "Headers":[
+            {"url":"elements/Yummy/header2.html","height":567, "thumbnail":"elements/thumbs/yummy_header2.jpg"},
+            {"url":"elements/Yummy/header3.html","height":567, "thumbnail":"elements/thumbs/yummy_header3.jpg"},
+            {"url":"elements/Yummy/header4.html","height":567, "thumbnail":"elements/thumbs/yummy_header4.jpg"},
+            {"url":"elements/Yummy/header7.html","height":567, "thumbnail":"elements/thumbs/yummy_header7.jpg"},
+            {"url":"elements/Yummy/header10.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header10.jpg"},
+            {"url":"elements/Yummy/header12.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header12.jpg"},
+            {"url":"elements/Yummy/header13.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header13.jpg"},
+            {"url":"elements/Yummy/header17.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header17.jpg"},
+            {"url":"elements/Yummy/header20.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header20.jpg"},
+            {"url":"elements/Yummy/header21.html","height":500, "thumbnail":"elements/thumbs/yummy_header21.jpg"},
+            {"url":"elements/Yummy/header22.html","height":500, "thumbnail":"elements/thumbs/yummy_header22.jpg"},
+            {"url":"elements/Yummy/header24.html","height":"90vh", "thumbnail":"elements/thumbs/yummy_header24.jpg"}
+        ],
+        "Maps": [
+            {"url":"elements/Yummy/map1.html","height":567, "thumbnail":"elements/thumbs/y_map1.jpg"},
+            {"url":"elements/Yummy/map2.html","height":567, "thumbnail":"elements/thumbs/y_map2.jpg"},
+            {"url":"elements/Yummy/map6.html","height":567, "thumbnail":"elements/thumbs/y_map6.jpg"}
+        ],
+        "Navigation bars": [
+            {"url":"elements/Yummy/navbar1.html","height":567, "thumbnail":"elements/thumbs/y_navbar1.jpg"},
+            {"url":"elements/Yummy/navbar2.html","height":567, "thumbnail":"elements/thumbs/y_navbar2.jpg"},
+            {"url":"elements/Yummy/navbar7.html","height":567, "thumbnail":"elements/thumbs/y_navbar7.jpg"},
+            {"url":"elements/Yummy/navbar9.html","height":567, "thumbnail":"elements/thumbs/y_navbar9.jpg"}
+        ],
+		 "Popups": [
+            {"url":"elements/Yummy/popup1.html","height":567, "thumbnail":"elements/thumbs/popup1.png"},
+            {"url":"elements/Yummy/popup2.html","height":567, "thumbnail":"elements/thumbs/popup2.png"},
+            {"url":"elements/Yummy/popup3.html","height":567, "thumbnail":"elements/thumbs/popup3.png"}
+        ],
+        "Pricing": [
+            {"url":"elements/Yummy/pricing1.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing1.jpg"},
+            {"url":"elements/Yummy/pricing2.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing2.jpg"},
+            {"url":"elements/Yummy/pricing4.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing4.jpg"},
+            {"url":"elements/Yummy/pricing6.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing6.jpg"},
+            {"url":"elements/Yummy/pricing9.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing9.jpg"},
+            {"url":"elements/Yummy/pricing11.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing11.jpg"},
+            {"url":"elements/Yummy/pricing13.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing13.jpg"},
+            {"url":"elements/Yummy/pricing14.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing14.jpg"},
+            {"url":"elements/Yummy/pricing16.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing16.jpg"},
+            {"url":"elements/Yummy/pricing18.html","height":567, "thumbnail":"elements/thumbs/yummy_pricing18.jpg"}
+        ],
+        "Processes": [
+            {"url":"elements/Yummy/process1.html","height":567, "thumbnail":"elements/thumbs/y_process1.jpg"},
+            {"url":"elements/Yummy/process2.html","height":567, "thumbnail":"elements/thumbs/y_process2.jpg"},
+            {"url":"elements/Yummy/process4.html","height":567, "thumbnail":"elements/thumbs/y_process4.jpg"},
+            {"url":"elements/Yummy/process5.html","height":567, "thumbnail":"elements/thumbs/y_process5.jpg"},
+            {"url":"elements/Yummy/process7.html","height":567, "thumbnail":"elements/thumbs/y_process7.jpg"},
+            {"url":"elements/Yummy/process8.html","height":567, "thumbnail":"elements/thumbs/y_process8.jpg"},
+            {"url":"elements/Yummy/process9.html","height":567, "thumbnail":"elements/thumbs/y_process9.jpg"},
+            {"url":"elements/Yummy/process12.html","height":567, "thumbnail":"elements/thumbs/y_process12.jpg"},
+            {"url":"elements/Yummy/process14.html","height":567, "thumbnail":"elements/thumbs/y_process14.jpg"},
+            {"url":"elements/Yummy/process18.html","height":567, "thumbnail":"elements/thumbs/y_process18.jpg"},
+            {"url":"elements/Yummy/process19.html","height":567, "thumbnail":"elements/thumbs/y_process19.jpg"},
+            {"url":"elements/Yummy/process23.html","height":567, "thumbnail":"elements/thumbs/y_process23.jpg"}
+            
+        ],
+        "Signup": [
+            {"url":"elements/Yummy/signup1.html","height":567, "thumbnail":"elements/thumbs/y_signup1.jpg"},
+            {"url":"elements/Yummy/signup2.html","height":567, "thumbnail":"elements/thumbs/y_signup2.jpg"},
+            {"url":"elements/Yummy/signup3.html","height":567, "thumbnail":"elements/thumbs/y_signup3.jpg"},
+            {"url":"elements/Yummy/signup5.html","height":567, "thumbnail":"elements/thumbs/y_signup5.jpg"},
+            {"url":"elements/Yummy/signup6.html","height":567, "thumbnail":"elements/thumbs/y_signup6.jpg"}
+        ],
+        "Slideshows": [
+            {"url":"elements/Yummy/slideshow1.html","height":567, "thumbnail":"elements/thumbs/y_slideshow1.jpg"},
+            {"url":"elements/Yummy/slideshow2.html","height":567, "thumbnail":"elements/thumbs/y_slideshow2.jpg"},
+            {"url":"elements/Yummy/slideshow7.html","height":567, "thumbnail":"elements/thumbs/y_slideshow7.jpg"},
+            {"url":"elements/Yummy/slideshow9.html","height":567, "thumbnail":"elements/thumbs/y_slideshow9.jpg"}
+        ],
+        "Subscribe": [
+            {"url":"elements/Yummy/subscribe1.html","height":567, "thumbnail":"elements/thumbs/yummy_subscribe1.jpg"},
+            {"url":"elements/Yummy/subscribe2.html","height":567, "thumbnail":"elements/thumbs/yummy_subscribe2.jpg"},
+            {"url":"elements/Yummy/subscribe3.html","height":567, "thumbnail":"elements/thumbs/yummy_subscribe3.jpg"},
+            {"url":"elements/Yummy/subscribe10.html","height":567, "thumbnail":"elements/thumbs/yummy_subscribe10.jpg"}
+        ],
+        "Team": [
+            {"url":"elements/Yummy/team1.html","height":567, "thumbnail":"elements/thumbs/y_team1.jpg"},
+            {"url":"elements/Yummy/team3.html","height":567, "thumbnail":"elements/thumbs/y_team3.jpg"},
+            {"url":"elements/Yummy/team10.html","height":567, "thumbnail":"elements/thumbs/y_team10.jpg"},
+            {"url":"elements/Yummy/team12.html","height":567, "thumbnail":"elements/thumbs/y_team12.jpg"},
+            {"url":"elements/Yummy/team14.html","height":567, "thumbnail":"elements/thumbs/y_team14.jpg"},
+            {"url":"elements/Yummy/team16.html","height":567, "thumbnail":"elements/thumbs/y_team16.jpg"}
+            
+        ],
+        "Testimonals": [
+            {"url":"elements/Yummy/testimonial1.html","height":567, "thumbnail":"elements/thumbs/y_testimonial1.jpg"},
+            {"url":"elements/Yummy/testimonial3.html","height":567, "thumbnail":"elements/thumbs/y_testimonial3.jpg"},
+            {"url":"elements/Yummy/testimonial6.html","height":567, "thumbnail":"elements/thumbs/y_testimonial6.jpg"},
+            {"url":"elements/Yummy/testimonial10.html","height":567, "thumbnail":"elements/thumbs/y_testimonial10.jpg"}
+        ],
+        "Titles": [
+            {"url":"elements/Yummy/title1.html","height":567, "thumbnail":"elements/thumbs/y_title1.jpg"},
+            {"url":"elements/Yummy/title5.html","height":567, "thumbnail":"elements/thumbs/y_title5.jpg"},
+            {"url":"elements/Yummy/title7.html","height":567, "thumbnail":"elements/thumbs/y_title7.jpg"},
+            {"url":"elements/Yummy/title9.html","height":567, "thumbnail":"elements/thumbs/y_title9.jpg"},
+            {"url":"elements/Yummy/title10.html","height":567, "thumbnail":"elements/thumbs/y_title10.jpg"}
+        ]
+    },
+    "components": {
+        "Grids": [
+            {
+                "thumbnail": "elements/thumbs/components/grid-12.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-12\">\n        <div data-container=\"true\"><\/div>\n    <\/div>\n<\/div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-6-6.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-6\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-6\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-4-8.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-4\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-8\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-8-4.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-8\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-4\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-4-4-4.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-4\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-4\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-4\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-3-3-3-3.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-3-3-6.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-6\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/grid-6-3-3.png",
+                "height": 70,
+                "markup": "<div data-component=\"grid\" class=\"row\">\n    <div class=\"col-md-6\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n    <div class=\"col-md-3\">\n        <div data-container=\"true\"></div>\n    </div>\n</div>"
+            }
+        ],
+        "Headings": [
+            {
+                "thumbnail": "elements/thumbs/components/heading1.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h1>This is a H1 heading</h1>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/heading2.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h2>This is a H2 heading</h2>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/heading3.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h3>This is a H3 heading</h3>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/heading4.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h4>This is a H4 heading</h4>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/heading5.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h5>This is a H5 heading</h5>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/heading6.png",
+                "height": 70,
+                "markup": "<div data-component=\"heading\" data-content=\"true\">\n    <h6>This is a H6 heading</h6>\n</div>"
+            }
+        ],
+        "Buttons": [
+            {
+                "thumbnail": "elements/thumbs/components/button-large.png",
+                "height": 70,
+                "markup": "<div data-component=\"button\">\n    <a href=\"#\" class=\"btn btn-default btn-lg\">Large button</a>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/button-regular.png",
+                "height": 70,
+                "markup": "<div data-component=\"button\">\n    <a href=\"#\" class=\"btn btn-default\">Default button</a>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/button-small.png",
+                "height": 70,
+                "markup": "<div data-component=\"button\">\n    <a href=\"#\" class=\"btn btn-default btn-sm\">Small button</a>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/button-extrasmall.png",
+                "height": 70,
+                "markup": "<div data-component=\"button\">\n    <a href=\"#\" class=\"btn btn-default btn-xs\">Extra small button</a>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/button-block.png",
+                "height": 70,
+                "markup": "<div data-component=\"button\">\n    <a href=\"#\" class=\"btn btn-default btn-block\">Block button</a>\n</div>"
+            }
+        ],
+        "Media": [
+            {
+                "thumbnail": "elements/thumbs/components/media-youtube.png",
+                "height": 70,
+                "markup": "<div data-component=\"video\">\n    <div class=\"videoWrapper\">\n        <iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/uQBL7pSAXR8?controls=0&showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>\n        <div class=\"frameCover\" data-type=\"video\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/media-vimeo.png",
+                "height": 70,
+                "markup": "<div data-component=\"video\">\n    <div class=\"videoWrapper\">\n        <iframe width=\"560\" height=\"315\" src=\"//player.vimeo.com/video/164814704?title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n        <div class=\"frameCover\" data-type=\"video\" data-selector=\".frameCover\"></div>\n    </div>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/media-image.png",
+                "height": 70,
+                "markup": "<div data-component=\"image\">\n    <img src=\"/img/exaple-image.jpg\">\n</div>"
+            }
+        ],
+        "Lists": [
+            {
+                "thumbnail": "elements/thumbs/components/lists-list.png",
+                "height": 70,
+                "markup": "<div data-component=\"list\">\n    <ul data-dnd-list data-content=\"true\">\n        <li draggable=\"true\">List item one</li>\n        <li draggable=\"true\">List item two</li>\n        <li draggable=\"true\">List item three</li>\n        <li draggable=\"true\">List item four</li>\n    </ul>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/lists-list-links.png",
+                "height": 70,
+                "markup": "<div data-component=\"list\">\n    <ul data-dnd-list data-content=\"true\">\n        <li draggable=\"true\"><a href=\"#\">List item one</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item two</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item three</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item four</a></li>\n    </ul>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/lists-list-basic.png",
+                "height": 70,
+                "markup": "<div data-component=\"list\">\n    <ul class=\"list-basic\" data-dnd-list data-content=\"true\">\n        <li draggable=\"true\">List item one</li>\n        <li draggable=\"true\">List item two</li>\n        <li draggable=\"true\">List item three</li>\n        <li draggable=\"true\">List item four</li>\n    </ul>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/lists-list-basic-links.png",
+                "height": 70,
+                "markup": "<div data-component=\"list\">\n    <ul class=\"list-basic\" data-dnd-list data-content=\"true\">\n        <li draggable=\"true\"><a href=\"#\">List item one</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item two</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item three</a></li>\n        <li draggable=\"true\"><a href=\"#\">List item four</a></li>\n    </ul>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/lists-list-social.png",
+                "height": 70,
+                "markup": "<div data-component=\"list\">\n    <ul class=\"list-basic list-horizontal social-basic-sm list-left\" data-dnd-list data-content=\"true\">\n        <li draggable=\"true\"><a href=\"#\" data-parent=\"1\" class=\"fa fa-facebook-official\"></a></li>\n        <li draggable=\"true\"><a href=\"#\" data-parent=\"1\" class=\"fa fa-twitter-square\"></a></li>\n        <li draggable=\"true\"><a href=\"#\" data-parent=\"1\" class=\"fa fa-github-square\"></a></li>\n        <li draggable=\"true\"><a href=\"#\" data-parent=\"1\" class=\"fa fa-pinterest-square\"></a></li>\n    </ul></div>"
+            }
+        ],
+        "Text": [
+            {
+                "thumbnail": "elements/thumbs/components/text-normal.png",
+                "height": 70,
+                "markup": "<div data-content=\"true\" data-component=\"text\">\n    <p>\n        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet gravida dolor, at efficitur nulla. Nam et tellus nisl. Nunc semper malesuada sem, a porta quam elementum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque a vestibulum ipsum, id eleifend neque.\n    </p>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/text-lead.png",
+                "height": 70,
+                "markup": "<div data-content=\"true\" data-component=\"text\">\n    <p class=\"lead\">\n        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet gravida dolor, at efficitur nulla. Nam et tellus nisl. Nunc semper malesuada sem, a porta quam elementum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque a vestibulum ipsum, id eleifend neque.\n    </p>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/text-small.png",
+                "height": 70,
+                "markup": "<div data-content=\"true\" data-component=\"text\">\n    <p class=\"small\">\n        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet gravida dolor, at efficitur nulla. Nam et tellus nisl. Nunc semper malesuada sem, a porta quam elementum ut. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque a vestibulum ipsum, id eleifend neque.\n    </p>\n</div>"
+            }
+        ],
+        "Icons": [
+            {
+                "thumbnail": "elements/thumbs/components/icon-small.png",
+                "height": 70,
+                "markup": "<div data-component=\"icon\">\n    <span class=\"fa fa-gift\"></span>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/icon-medium.png",
+                "height": 70,
+                "markup": "<div data-component=\"icon\">\n    <span class=\"fa fa-gift\" style=\"font-size: 28px\"></span>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/icon-large.png",
+                "height": 70,
+                "markup": "<div data-component=\"icon\">\n    <span class=\"fa fa-gift\" style=\"font-size: 40px\"></span>\n</div>"
+            }
+        ],
+		"Embeds": [
+            {
+                "thumbnail": "elements/thumbs/components/embed-component.png",
+                "height": 70,
+                "markup": "<div data-component=\"embed\"></div>"
+            }
+        ],
+        "Map": [
+            {
+                "thumbnail": "elements/thumbs/components/map.png",
+                "height": 70,
+                "markup": "<div data-component=\"map\">\n    <div class=\"mapWrapper\">\n        <div id=\"gmap\" class=\"gmap border-radius-lg\" style=\"height: 250px; background-image: url('../bundles/84b583547a2afc0a6737224fa3379874.png'); background-position: center center\"></div>\n        <div class=\"mapOverlay\"></div>\n    </div>\n</div>"
+            }
+        ],
+        "Navigation": [
+            {
+                "thumbnail": "elements/thumbs/components/navbar-default.png",
+                "height": 70,
+                "markup": "<div data-component=\"navbar\">\n    <nav class=\"navbar navbar-default bloxby-navbar-left-right\" style=\"margin-bottom: 0px;\">\n        <div class=\"navbar-header\">\n            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar-inverse-collapse\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span class=\"fa fa-bars\"></span>\n            </button>\n            <a class=\"navbar-brand\" href=\"#\">YOUR BRAND</a>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbar-inverse-collapse\">\n            <ul class=\"nav navbar-nav\" data-dnd-list>\n                <li class=\"active\">\n                    <a href=\"#\" data-parent=\"1\">Home</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Work</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Blog</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Contact</a>\n                </li>\n            </ul>\n            <div class=\"navbar-buttons hidden-xs\" data-container=\"true\">\n                <div data-component=\"button\">\n                    <a href=\"#\" class=\"btn btn-default btn-xs\">Learn more</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/navbar-inverse.png",
+                "height": 70,
+                "markup": "<div data-component=\"navbar\">\n    <nav class=\"navbar navbar-inverse bloxby-navbar-left-right\" style=\"margin-bottom: 0px;\">\n        <div class=\"navbar-header\">\n            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar-inverse-collapse\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span class=\"fa fa-bars\"></span>\n            </button>\n            <a class=\"navbar-brand\" href=\"#\">YOUR BRAND</a>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbar-inverse-collapse\">\n            <ul class=\"nav navbar-nav\" data-dnd-list>\n                <li class=\"active\">\n                    <a href=\"#\" data-parent=\"1\">Home</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Work</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Blog</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Contact</a>\n                </li>\n            </ul>\n            <div class=\"navbar-buttons hidden-xs\" data-container=\"true\">\n                <div data-component=\"button\">\n                    <a href=\"#\" class=\"btn btn-default btn-xs\">Learn more</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/navbar-plain1.png",
+                "height": 70,
+                "markup": "<div data-component=\"navbar\">\n    <nav class=\"navbar navbar-plain bloxby-navbar-left-right\" style=\"margin-bottom: 0px;\">\n        <div class=\"navbar-header\">\n            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar-inverse-collapse\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span class=\"fa fa-bars\"></span>\n            </button>\n            <a class=\"navbar-brand\" href=\"#\">YOUR BRAND</a>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbar-inverse-collapse\">\n            <ul class=\"nav navbar-nav\" data-dnd-list>\n                <li class=\"active\">\n                    <a href=\"#\" data-parent=\"1\">Home</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Work</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Blog</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Contact</a>\n                </li>\n            </ul>\n            <div class=\"navbar-buttons hidden-xs\" data-container=\"true\">\n                <div data-component=\"button\">\n                    <a href=\"#\" class=\"btn btn-default btn-xs\">Learn more</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</div>"
+            },
+            {
+                "thumbnail": "elements/thumbs/components/navbar-plain2.png",
+                "height": 70,
+                "markup": "<div data-component=\"navbar\">\n    <nav class=\"navbar navbar-plain bloxby-navbar-centered\" style=\"margin-bottom: 0px;\">\n        <div class=\"navbar-header\">\n            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar-inverse-collapse\">\n                <span class=\"sr-only\">Toggle navigation</span>\n                <span class=\"fa fa-bars\"></span>\n            </button>\n            <a class=\"navbar-brand\" href=\"#\">YOUR BRAND</a>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbar-inverse-collapse\">\n            <ul class=\"nav navbar-nav\" data-dnd-list>\n                <li class=\"active\">\n                    <a href=\"#\" data-parent=\"1\">Home</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Work</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Blog</a>\n                </li>\n                <li>\n                    <a href=\"#\" data-parent=\"1\">Contact</a>\n                </li>\n            </ul>\n            <div class=\"navbar-buttons hidden-xs\" data-container=\"true\">\n                <div data-component=\"button\">\n                    <a href=\"#\" class=\"btn btn-default btn-xs\">Learn more</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</div>"
+            }
+        ] 
+    }
+}

@@ -1,0 +1,137 @@
+$animationDuration: .5s;
+
+.newSiteModal {
+
+	.modal-content {
+		border: 0px;
+
+		h2 {
+			text-transform: uppercase;
+    		font-size: 45px;
+    		margin-bottom: 20px;
+		}
+
+		h3 {
+			font-size: 19px;
+    		text-transform: uppercase;
+    		margin-top: 0px;
+    		font-weight: normal;
+		}
+	
+		.modal-body {
+
+			padding: 0px;
+			display: flex;
+			min-height: 400px;
+			justify-content: space-between;
+
+			.divEmptyCanvas {
+				img {
+					margin: 20px 0px;
+				}
+			}
+
+			ul.catList {
+				width: 30%;
+				list-style: none;
+				list-style-type: none;
+				padding: 20px 0px 0px;
+				margin: 0px;
+				background-color: #3A99D8;
+
+				li {
+					list-style: none;
+					list-style-type: none;
+
+					button {
+						width: 100%;
+						border-radius: 0px;
+						height: 60px;
+						background-color: #3A99D8;
+						color: #ECF0F1;
+						border: 0px;
+						padding-right: 40px;
+						text-align: left;
+						padding-left: 30px;
+						position: relative;
+						transition: background-color $animationDuration,
+									color $animationDuration;
+						text-overflow: ellipsis;
+						overflow: hidden;
+						white-space: nowrap;
+
+						svg {
+							polygon {
+								fill: #bdc3c7;
+								transition: fill $animationDuration;
+							}
+						}
+
+						&:active, &:focus {
+							outline: none;
+						}
+
+						&.active, &:hover {
+							background-color: #2F81B7;
+							color: #fff;
+
+							svg {
+								polygon {
+									fill: #fff;
+								}
+							}
+						}
+
+						svg {
+							position: absolute;
+							top: 20px;
+							right: 20px;
+						}
+					}
+				}
+
+			}
+
+			.templateWrapper {
+				width: 65%;
+
+				ul.templateList {
+					margin: 0px;
+					padding: 20px 0px;
+					
+					list-style: none;
+					list-style-type: none;
+
+					li {
+						list-style: none;
+						list-style-type: none;
+						width: 45%;
+						float: left;
+						margin-right: 15px;
+						margin-bottom: 20px;
+
+						a {
+							img {
+								max-width: 100%;
+								border-radius: 5px;
+								border: 2px solid transparent;
+							}
+
+							&.active {
+								img {
+									border: 2px solid #239F85;
+								}
+							}
+
+						}
+
+						
+					}
+				}
+			}
+
+		}
+
+	}
+
+}

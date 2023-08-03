@@ -1,0 +1,92 @@
+label.checkbox input[type=checkbox]{
+    position: relative;
+    margin-left: 0;
+    pointer-events: none;
+    display: none;
+}
+
+label.checkbox input[type=checkbox] + .checkmark {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    height: 20px;
+    width: 20px;
+    background-color: #eee;
+    border-radius: 4px
+}
+
+label.checkbox input[type=checkbox]:checked~ .checkmark {
+    background-color: #1abc9c;
+}
+
+label.checkbox input[type=checkbox]+.checkmark:after {
+    content: '';
+    display: inline-block;
+    left: 6px;
+    top: 2px;
+    width: 7px;
+    height: 11px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+}
+
+label.checkbox input[type=checkbox]:checked + .checkmark:after {
+    display: block;
+}
+
+
+.deleteUserButton{
+    color: #d00606;
+}
+
+select.user-package{
+    -webkit-appearance: button;
+    -webkit-border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    -webkit-padding-end: 20px;
+    -webkit-padding-start: 2px;
+    -webkit-user-select: none;
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    border: 1px solid #AAA;
+    color: #555;
+    font-size: inherit;
+    margin: 0;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 200px;
+}
+
+.dataTables_filter input[type=search],
+.dataTables_filter input[type=search]:focus{
+    border: solid 1px #7bc3ab;
+    border-radius: 10px;
+    line-height: initial;
+    padding: 5px;
+    outline: none;
+}
+
+select[name=datatable_length] {
+    border: solid 1px #7bc3ab;
+    border-radius: 10px;
+    padding: 5px;
+    outline: none;
+}
+
+.paginate_button{
+    margin: 5px;
+    cursor: pointer;
+}
+.paginate_button.disabled{
+    color: #999;
+    cursor: auto;
+}
+.paginate_button.current{
+    font-weight: 600;
+}
